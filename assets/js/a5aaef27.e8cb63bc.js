@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknanami=self.webpackChunknanami||[]).push([[80],{7159:function(a){a.exports=JSON.parse('{"allTagsPath":"/nanami/blog/tags","slug":"/nanami/blog/tags/hello","name":"hello","count":2,"permalink":"/nanami/blog/tags/hello"}')}}]);
