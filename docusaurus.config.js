@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chat Learning',
   tagline: '可愛さ最高！',
-  url: 'https://cute.rosmon.top',
+  url: 'http://cute.rosmon.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
