@@ -16,7 +16,7 @@ const config = {
   organizationName: 'FuYon', // Usually your GitHub org/user name.
   projectName: 'nanami', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: true,
+  trailingSlash: false,
 
   presets: [
     [
