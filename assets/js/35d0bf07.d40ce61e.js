@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknanami=self.webpackChunknanami||[]).push([[808],{1286:function(a){a.exports=JSON.parse('{"allTagsPath":"/nanami/blog/tags","slug":"/nanami/blog/tags/facebook","name":"facebook","count":1,"permalink":"/nanami/blog/tags/facebook"}')}}]);
